@@ -1,2 +1,2 @@
-# Dress-Segmentation
+# Cloth-Segmentation
 Cloth type segmentation using autoencoder network in TensorFlow.
